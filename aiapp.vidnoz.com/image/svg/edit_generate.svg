@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1411" data-name="Rectangle 1411" width="20" height="20" transform="translate(804 734)" fill="#fff" stroke="#1e1e2e" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="edit_generate" transform="translate(-804 -734)" clip-path="url(#clip-path)">
+    <g id="vuesax_linear_direct-normal" data-name="vuesax/linear/direct-normal" transform="translate(440.398 548.398)">
+      <g id="direct-normal" transform="translate(364 186)">
+        <path id="Vector" d="M5.6,16h4.8c4,0,5.6-1.6,5.6-5.6V5.6c0-4-1.6-5.6-5.6-5.6H5.6C1.6,0,0,1.6,0,5.6v4.8C0,14.4,1.6,16,5.6,16Z" transform="translate(1.6 1.6)" fill="none" stroke="#1e1e2e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M0,.008H3.009A1.6,1.6,0,0,1,4.441.9l.712,1.432a1.535,1.535,0,0,0,1.44.88H9.418A1.6,1.6,0,0,0,10.85,2.32L11.562.888A1.6,1.6,0,0,1,12.994,0h2.993" transform="translate(1.6 10.394)" fill="none" stroke="#1e1e2e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H19.2V19.2H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

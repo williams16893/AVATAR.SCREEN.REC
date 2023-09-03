@@ -1,0 +1,284 @@
+<html lang="en">
+
+
+<!-- Mirrored from aiapp.vidnoz.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Sep 2023 04:08:43 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+  <meta name="application-name" content="EKANS_VERSION: 9e7df12">
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  
+  <link rel="preload" as="image" href="image/img/window_ask.png" />
+  <link rel="preload" as="image" href="image/img/window_close.png" />
+  <link rel="preload" as="image" href="image/svg/check_box_white_select.svg" />
+  <link rel="preload" as="image" href="image/img/selected_delete.png" />
+  <link rel="preload" as="image" href="image/img/selected_restore.png" />
+  <link rel="preload" as="image" href="image/svg/check_box_white.svg" />
+  <link rel="preload" as="image" href="image/svg/check_box_white_hover.svg" />
+  <link rel="preload" as="image" href="image/img/selected_download.png" />
+  <link rel="preload" as="image" href="image/img/window_hint.png" />
+  <link rel="preload" as="image" href="image/img/window_ask.png" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <!-- <script type="module" src="./avatar/index.js"></script> -->
+  <title>Vidnoz AI - Home</title>
+  <script type="module" crossorigin src="assets/main-329670d4.js"></script>
+  <link rel="modulepreload" crossorigin href="assets/fabric-d1db407f.js">
+  <link rel="modulepreload" crossorigin href="assets/sentry-604fb4c0.js">
+  <link rel="modulepreload" crossorigin href="assets/init-component-6e97d311.js">
+  <link rel="modulepreload" crossorigin href="assets/switch-pro-d3fb1dc8.js">
+  <link rel="modulepreload" crossorigin href="assets/index-018ba728.js">
+  <link rel="modulepreload" crossorigin href="assets/swiper.min-e80c9f31.js">
+  <link rel="stylesheet" href="assets/init-component-d6262068.css">
+  <link rel="stylesheet" href="assets/swiper-5db3b8d3.css">
+</head>
+
+<body>
+  <project-proposal id="project-proposal"> </project-proposal>
+  <create-from-url id="create-from-url"></create-from-url>
+  <mob-dialog></mob-dialog>
+  <div class="create-avatar-mask flex-item-center flex-center">
+    <div class="create-avatar-body">
+      <i class="create-avatar-body-close hover-effect"></i>
+      <p class="create-avatar-body-title">Create talking photo - <input type="text" disabled="true"
+          autocomplete="off" id="create-avatar-input" maxlength="100"> <i class="hover-effect"></i></p>
+      <div class="create-avatar-body-steps">
+        <div class="create-avatar-body-steps-one">
+          <h4><span>Step 1</span> Upload a photo</h4>
+          <div class="create-avatar-body-steps-one-main">
+            <input type="file" id="create-avatar-file" accept=".png,.jpg">
+            <div class="default-status">
+              <img src="image/img/ico_upload.png" />
+              <p>Click here or drag to upload a CLEAR photo of the POSITIVE face.</p>
+              <span>(PNG, JPG supported, up to 10MB. Image size less than 4096*4096 pixels.)</span>
+            </div>
+            <div class="loading-status">
+              <div class="small-loading white uploading">Uploading…</div>
+              <div class="small-loading white processing">Processing...</div>
+            </div>
+            <div class="success-status">
+              <img src="#">
+              <p>Click here or drag to replace the photo</p>
+            </div>
+          </div>
+        </div>
+        <div class="create-avatar-body-steps-two">
+          <h4><span>Step 2</span> Select a voice</h4>
+          <div class="create-avatar-body-steps-two-main">
+            <select-voice></select-voice>
+            <speed-setting></speed-setting>
+            <div class="audio-box">
+              <audio src="#"></audio>
+              <i class="audio-box-icon"></i>
+              <p>Listen to the voice</p>
+            </div>
+            <div class="background-box">
+              <switch-pro pageType="avatar" allowClick="click"></switch-pro>
+              <span>Remove background</span>
+            </div>
+            <button class="button generate-btn"><span>Generate this talking photo</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="page-views" class="flex-end homepage">
+    <page-navigat id="page-navigat"></page-navigat>
+    <div id="page-main">
+      <page-header id="page-header" pageName="Easily create free AI videos with no effort."
+        pageNameClassName="gradient" showBottomBorder="show"></page-header>
+      <div id="page-main-view">
+        <fullscreen-loading></fullscreen-loading>
+        <div class="page-main-middle">
+          <h1 class="page-main-title">What video will you create today?</h1>
+
+          <div id="home-featured" class="home-sliderbox first">
+            <div class="flex-item-center flex-between homepage-title">
+              <h3 class="area-title">
+                Popular Templates
+                <!-- <span class="hover-effect home-layout-icon"></span>  -->
+                <span class="area-title-descript">Quickly get started with templates, designed for all scenarios.</span>
+              </h3>
+              <more-button type="linkTotemplates" text="Explore more"></more-button>
+            </div>
+            <ul class="template-nav flex-item-center">
+              <li class="landscape on">Landscape</li>
+              <li class="portrait">Portrait</li>
+            </ul>
+            <!-- <div class="home-featured-cont">
+              <div class="library-menu-button library-menu-left template-slide-left"></div>
+              <div class="library-menu-button library-menu-right template-slide-right"></div>
+              <div class="shadow-right"></div>
+              <div class="shadow-left"></div>
+              <div class="home-featured-middle template-featured-itemlist">
+                <div class="home-featured-template template-sliderarea">
+                </div>
+              </div>
+            </div> -->
+            <div class="swiper-card-box template-landscape">
+              <div class="swiper templates-card-swiper Swiper-No-Swiping">
+                <div class="swiper-wrapper">
+                </div>
+                <div class="swiper-templates-button-next swiper-button-next swiper-button"></div>
+                <div class="swiper-templates-button-prev swiper-button-prev swiper-button"></div>
+                <div class="shadow-right"></div>
+                <div class="shadow-left"></div>
+              </div>
+            </div>
+
+            <div class="swiper-card-box template-portrait" style="display: none;">
+              <div class="swiper templates-portrait-card-swiper Swiper-No-Swiping">
+                <div class="swiper-wrapper">
+                </div>
+                <div class="swiper-templates-portrait-button-next swiper-button-next swiper-button"></div>
+                <div class="swiper-templates-portrait-button-prev swiper-button-prev swiper-button"></div>
+                <div class="shadow-right"></div>
+                <div class="shadow-left"></div>
+              </div>
+            </div>
+          </div>
+          <!-- <div class="home-sliderbox">
+            <div class="flex-item-center flex-between home-title homepage-title">
+              <div class="title-box">
+                <h3 class="area-title">AI Avatars <span class="area-title-descript">Create AI videos with realistic avatars</span></h3>
+              </div>
+              <more-button type="linkToavatar" text="Explore more"></more-button>
+            </div>
+            <div class="home-featured-cont">
+              <div class="library-menu-button library-menu-left avatar-slide-left"></div>
+              <div class="library-menu-button library-menu-right avatar-slide-right"></div>
+              <div class="shadow-right"></div>
+              <div class="shadow-left"></div>
+              <div class="home-featured-middle avatar-featured-itemlist">
+                <div class="home-featured-avatar avatar-sliderarea">
+                </div>
+              </div>
+            </div>
+          </div> -->
+          <div class="home-sliderbox">
+            <div class="flex-item-center flex-between home-title homepage-title">
+              <div class="title-box">
+                <h3 class="area-title">AI Avatars <span
+                    class="area-title-descript">Create AI videos with realistic avatars</span></h3>
+              </div>
+              <more-button type="linkToavatar" text="Explore more"></more-button>
+            </div>
+            <div class="swiper-card-box">
+              <div class="swiper avatar-card-swiper Swiper-No-Swiping">
+                <div class="swiper-wrapper">
+                </div>
+                <div class="swiper-avatar-button-next swiper-button-next swiper-button"></div>
+                <div class="swiper-avatar-button-prev swiper-button-prev swiper-button"></div>
+                <div class="shadow-right"></div>
+                <div class="shadow-left"></div>
+              </div>
+            </div>
+          </div>
+
+          <div id="home-create">
+            <div class="title-box homepage-title">
+              <h3 class="area-title">Talking Photo <span
+                  class="area-title-descript">Make your photos talk and come alive!</span></h3>
+              <!-- <button class="avatar_create">Upload</button> -->
+              <more-button type="linkToavatarPhoto" text="Explore more"></more-button>
+            </div>
+            <!-- 1 -->
+            <div class="swiper-card-box">
+              <div class="swiper avatar-photo-card-swiper Swiper-No-Swiping">
+                <div class="swiper-wrapper">
+                  <div class="swiper-slide">
+                    <div class="avatar_create">
+                      <div class="create-background flex-item-center flex-center">
+                        <div class="create-icon">
+                          <img src="image/img/creat_avatar.png" alt="">
+                        </div>
+                      </div>
+                      <div class="create-titletext">Upload Your Photo</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-photo-button-next swiper-button-next swiper-button"></div>
+                <div class="swiper-photo-button-prev swiper-button-prev swiper-button"></div>
+                <div class="shadow-right"></div>
+                <div class="shadow-left"></div>
+              </div>
+            </div>
+            <!-- 2 -->
+          </div>
+
+          <div id="home-recent">
+            <div class="homepage-title title-box">
+              <h3 class="area-title">Recent Videos <span
+                  class="area-title-descript">Check your recent creations</span></h3>
+
+              <more-button type="linkToVideo" text="Explore more"></more-button>
+            </div>
+            <div class="video-card-list home-recent-video flex-start showed">
+
+            </div>
+            <selected-optearion-box text="videos selected"></selected-optearion-box>
+          </div>
+        </div>
+
+
+
+      </div>
+    </div>
+  </div>
+
+  <div class="avatar-preview-mask flex-item-center flex-center">
+    <div class="avatar-preview-body">
+      <i class="avatar-preview-body-close hover-effect"></i>
+      <p class="avatar-preview-body-title">Avatar - <input type="text" disabled="true" autocomplete="off"
+          id="avatar-preview-input" maxlength="100" value="11"> <i class="hover-effect"></i></p>
+      <div class="avatar-preview-img-box">
+        <img src="#" crossorigin="anonymous">
+        <video autoplay preload="auto" src="#" class="avatar-preview-video"></video>
+        <video-controls videoClassName="avatar-preview-video" fullClassName="avatar-preview-img-box"
+          showFullPlayBtn="true"></video-controls>
+      </div>
+      <div class="avatar-preview-options">
+        <div class="avatar-preview-view">
+          <span>View</span>
+          <div class="avatar-preview-half-body hover-effect on" title="Half body"></div>
+          <div class="avatar-preview-circle hover-effect" title="Circle head"></div>
+          <div class="avatar-preview-square hover-effect" title="Square head"></div>
+        </div>
+        <select-voice></select-voice>
+        <speed-setting containerWidth="208"></speed-setting>
+      </div>
+      <div class="avatar-preview-btns">
+        <audio src="#" class="avatar-preview-audio"></audio>
+        <button class="avatar-preview-btn-preview">Preview</button>
+        <button class="avatar-preview-btn-save">Save changes</button>
+        <button class="avatar-preview-btn-to-edit">Edit Avatar</button>
+        <div class="to-edit-box">
+          <button class="avatar-preview-btn-create">Create video with this avatar</button>
+          <div class="mode-box">
+            <div class="mode-item mode-item-landscape">
+              <i class="icon-img-landscape"></i>
+              <span class="item-screen-text">16:9</span>
+            </div>
+            <div class="mode-item mode-item-portrait">
+              <i class="icon-img-portrait"></i>
+              <span class="item-screen-text">9:16</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>console.log("EKANS_VERSION: 9e7df12")</script>
+  <script>__EKANS_VERSION__ = "9e7df12"</script>
+</body>
+
+
+<!-- Mirrored from aiapp.vidnoz.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Sep 2023 04:08:52 GMT -->
+</html>

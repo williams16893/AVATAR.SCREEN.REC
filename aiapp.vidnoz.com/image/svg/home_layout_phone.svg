@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2449" data-name="Rectangle 2449" width="24" height="24" transform="translate(775 327)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="home_layout_phone" transform="translate(-775 -327)" clip-path="url(#clip-path)">
+    <g id="Group_2124" data-name="Group 2124" transform="translate(-2.078 3.144)">
+      <path id="Path_8019" data-name="Path 8019" d="M2.2,0H7.381a2.2,2.2,0,0,1,2.2,2.2V13.442a2.2,2.2,0,0,1-2.2,2.2H2.2a2.2,2.2,0,0,1-2.2-2.2V2.2A2.2,2.2,0,0,1,2.2,0Z" transform="translate(787.981 328.035)" fill="none" stroke="#1e1e2e" stroke-width="1.5"/>
+      <g id="Group_2123" data-name="Group 2123" transform="translate(-2941.805 -3457.219)">
+        <g id="Group_2122" data-name="Group 2122">
+          <path id="Path_8020" data-name="Path 8020" d="M3727.552,3797.733h-4.274a.88.88,0,0,1-.88-.88v-4.637a.88.88,0,0,1,.88-.88h4.274" fill="none" stroke="#afafc4" stroke-linecap="round" stroke-width="1.5"/>
+          <line id="Line_25" data-name="Line 25" x2="2.492" transform="translate(3724.812 3799.719)" fill="none" stroke="#afafc4" stroke-linecap="round" stroke-width="1.5"/>
+          <line id="Line_26" data-name="Line 26" y2="1.985" transform="translate(3727.092 3797.734)" fill="none" stroke="#afafc4" stroke-linecap="round" stroke-width="1.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

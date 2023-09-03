@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1716" data-name="Rectangle 1716" width="20" height="20" transform="translate(612 704)" fill="#1e1e2e" stroke="#1e1e2e" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_2117" data-name="Rectangle 2117" width="20" height="20" transform="translate(241 774)" fill="#676778" stroke="#1e1e2e" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="edit_preview_stop" transform="translate(-612 -704)" clip-path="url(#clip-path)">
+    <g id="edit_sound_stop" transform="translate(371 -70)" clip-path="url(#clip-path-2)">
+      <g id="vuesax_linear_pause-circle" data-name="vuesax/linear/pause-circle" transform="translate(241 774)">
+        <g id="pause-circle">
+          <path id="Vector" d="M16.667,8.333A8.333,8.333,0,1,1,8.333,0,8.333,8.333,0,0,1,16.667,8.333Z" transform="translate(1.642 1.667)" fill="none" stroke="#1e1e2e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          <path id="Vector-2" data-name="Vector" d="M2.267,4.775V.558C2.267.158,2.1,0,1.675,0H.592C.167,0,0,.158,0,.558V4.775c0,.4.167.558.592.558H1.667C2.1,5.333,2.267,5.175,2.267,4.775Z" transform="translate(6.667 7.333)" fill="none" stroke="#1e1e2e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          <path id="Vector-3" data-name="Vector" d="M2.258,4.775V.558c0-.4-.167-.558-.592-.558H.592C.167,0,0,.158,0,.558V4.775c0,.4.167.558.592.558H1.667C2.092,5.333,2.258,5.175,2.258,4.775Z" transform="translate(11.075 7.333)" fill="none" stroke="#1e1e2e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          <path id="Vector-4" data-name="Vector" d="M0,0H20V20H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

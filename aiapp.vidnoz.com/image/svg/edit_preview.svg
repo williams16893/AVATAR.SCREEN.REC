@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1410" data-name="Rectangle 1410" width="20" height="20" transform="translate(604 731)" fill="#8b3dff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="edit_preview" transform="translate(-604 -731)" clip-path="url(#clip-path)">
+    <g id="vuesax_linear_video-circle" data-name="vuesax/linear/video-circle" transform="translate(304.001 477.001)">
+      <g id="video-circle" transform="translate(300 254)">
+        <path id="Vector" d="M0,3.014V1.78C0,.189,1.125-.453,2.5.339L3.566.955l1.067.617c1.375.792,1.375,2.091,0,2.883l-1.067.617L2.5,5.688C1.125,6.48,0,5.83,0,4.247Z" transform="translate(7.583 6.985)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M16.665,8.333A8.333,8.333,0,1,1,8.333,0,8.333,8.333,0,0,1,16.665,8.333Z" transform="translate(1.667 1.667)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H20V20H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

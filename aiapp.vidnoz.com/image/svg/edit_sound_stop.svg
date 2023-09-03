@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2117" data-name="Rectangle 2117" width="24" height="24" transform="translate(241 774)" fill="#676778" stroke="#676778" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="edit_sound_stop" transform="translate(-241 -774)" clip-path="url(#clip-path)">
+    <g id="vuesax_linear_pause-circle" data-name="vuesax/linear/pause-circle" transform="translate(-315 390)">
+      <g id="pause-circle">
+        <path id="Vector" d="M20,10A10,10,0,1,1,10,0,10,10,0,0,1,20,10Z" transform="translate(557.97 386)" fill="none" stroke="#676778" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M2.72,5.73V.67c0-.48-.2-.67-.71-.67H.71C.2,0,0,.19,0,.67V5.73c0,.48.2.67.71.67H2C2.52,6.4,2.72,6.21,2.72,5.73Z" transform="translate(564 392.8)" fill="none" stroke="#676778" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-3" data-name="Vector" d="M2.71,5.73V.67C2.71.19,2.51,0,2,0H.71C.2,0,0,.19,0,.67V5.73c0,.48.2.67.71.67H2C2.51,6.4,2.71,6.21,2.71,5.73Z" transform="translate(569.29 392.8)" fill="none" stroke="#676778" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-4" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(556 384)" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>
